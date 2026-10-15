@@ -1,28 +1,17 @@
-BSD 3-Clause License
-
-Copyright (c) 2026, Garbo-guy
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
-
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
-
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
-
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+PROPRIETARY SOFTWARE LICENSE AGREEMENT
+This Software License Agreement (the "Agreement") is a legal agreement between the Licensee (either an individual or a single entity) and the Licensor for the software product accompanying this Agreement, which includes computer software and may include associated media, printed materials, and "online" or electronic documentation (the "Software").
+1. GRANT OF LICENSE
+The Licensor grants the Licensee a non-exclusive, non-transferable, limited license to use the Software solely for internal business or personal purposes, subject to the terms and conditions set forth in this Agreement.
+2. RESTRICTIONS
+The Licensee shall not:
+• Modify, translate, reverse engineer, decompile, disassemble, or create derivative works based on the Software.
+• Rent, lease, transfer, assign, or sublicense rights in the Software to any third party.
+• Remove any proprietary notices, labels, or trademarks on the Software.
+3. INTELLECTUAL PROPERTY RIGHTS
+All title, ownership rights, and intellectual property rights in and to the Software and any copies thereof remain the sole property of the Licensor. The Software is protected by copyright laws and international treaty provisions.
+4. TERMINATION
+This Agreement is effective until terminated. The Licensee's rights under this License will terminate automatically without notice from the Licensor if the Licensee fails to comply with any term(s) of this Agreement. Upon termination, the Licensee must cease all use of the Software and destroy all copies.
+5. DISCLAIMER OF WARRANTY
+The Software is provided "AS IS," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+6. LIMITATION OF LIABILITY
+In no event shall the Licensor be liable for any damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or other pecuniary loss) arising out of the use of or inability to use this Software.
